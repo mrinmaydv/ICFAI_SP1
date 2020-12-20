@@ -1,0 +1,30 @@
+{"categories":
+[
+{"name":"Movies",
+"videos":[
+
+{"description":"Data mining is a process used by companies to turn raw data into useful information. By using software to look for patterns in large batches of data, businesses can learn more about their customers to develop more effective marketing strategies, increase sales and decrease costs.",
+"sources":["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
+"subtitle":"Data Mining Full Course",
+"thumb":"https://i.ytimg.com/vi/z--2rCShvL0/maxresdefault.jpg",
+"title":"Big Buck Bunny"},
+
+{"description":"Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.",
+"sources":["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
+"subtitle":"Android Full Course",
+"thumb":"https://ashayein.com/webfile/online-courses/2020/July/14-July-2020/b-coursefimg-140720110003.jpeg",
+"title":"Android Development Course"},
+
+{"description":"Image processing is a method to perform some operations on an image, in order to get an enhanced image or to extract some useful information from it.",
+"sources":["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"],
+"subtitle":"By Google",
+"thumb":"https://www.dhsinformatics.com/wp-content/uploads/2017/12/drib-processing.jpeg",
+"title":"Image Processing Full Course"},
+
+{"description":"Natural Language Processing, usually shortened as NLP, is a branch of artificial intelligence that deals with the interaction between computers and humans using the natural language.",
+"sources":["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"],
+"subtitle":"NLP Course",
+"thumb":"https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg",
+"title":"Natural Language Processing Full Course"},
+]}
+]}
